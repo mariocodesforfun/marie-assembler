@@ -1,0 +1,8 @@
+gpg @ file:///private/tmp/gpgme-20231223-6162-ajrkfy/gpgme-1.23.2/lang/python
+mutagen @ file:///private/tmp/python-mutagen-20231008-5554-1csby1/mutagen-1.47.0
+openvino @ file:///private/tmp/openvino-20240120-6451-2ye6ih/openvino-2023.3.0/src/bindings/python/wheel
+pycairo @ file:///private/tmp/py3cairo-20240213-5870-zzr0dm/pycairo-1.26.0
+PyGObject==3.46.0
+setuptools @ file:///private/tmp/python-setuptools-20240223-4585-1z5qt4/setuptools-69.1.1
+TBB @ file:///private/tmp/tbb-20231202-5067-9guvre/oneTBB-2021.11.0/python
+wheel @ file:///opt/homebrew/Cellar/python%403.12/3.12.2_1/libexec/wheel-0.42.0-py3-none-any.whl#sha256=5f1ca525bef7466225922019d72cb06a9e91cd3ff807ddd4be1acb84655e5107
